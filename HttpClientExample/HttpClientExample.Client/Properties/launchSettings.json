@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HttpClientExample.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "Add 5 8"
+    }
+  }
+}
